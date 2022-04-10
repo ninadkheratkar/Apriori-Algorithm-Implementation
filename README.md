@@ -1,5 +1,5 @@
 # Apriori-Algorithm-Implementation
-Apriori Algorithm implementation from scratch 
+Apriori Algorithm implementation from scratch using Python
 
 Datasets used are stored locally.
 
